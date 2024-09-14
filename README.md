@@ -1,3 +1,5 @@
+# 20 Star 15 fork'de BOT sizlerle.
+
 # Discord Sunucu Kopyalama Botu
 
 Bu bot, bir Discord sunucusunun (kanallar, roller, sunucu adı ve profil resmi dahil) verilerini başka bir sunucuya kopyalamak için kullanılır. Bu işlem, iki sunucu arasında veri taşımanızı sağlar ve sunucu ayarlarını otomatik olarak kopyalar.
